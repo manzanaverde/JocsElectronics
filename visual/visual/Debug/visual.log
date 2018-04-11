@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  application.cpp
+c:\users\u114240\downloads\tje2018_2d\tje2018_2d\src\utils.h(83): warning C4800: 'char': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+c:\users\u114240\downloads\tje2018_2d\tje2018_2d\src\application.h(60): warning C4800: 'const Uint8': forzando el valor a bool 'true' o 'false' (advertencia de rendimiento)
+application.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:LBR'
+  visual.vcxproj -> C:\Users\u114240\Downloads\TJE2018_2D\TJE2018_2D\visual\visual\..\..\application.exe
+  visual.vcxproj -> ..\..\application.pdb (Full PDB)
